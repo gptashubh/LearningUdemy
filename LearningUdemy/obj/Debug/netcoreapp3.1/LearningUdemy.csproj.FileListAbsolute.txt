@@ -4,7 +4,6 @@ C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\bin\Debug\netcoreapp
 C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\bin\Debug\netcoreapp3.1\LearningUdemy.runtimeconfig.dev.json
 C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\bin\Debug\netcoreapp3.1\LearningUdemy.dll
 C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\bin\Debug\netcoreapp3.1\LearningUdemy.pdb
-C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\obj\Debug\netcoreapp3.1\LearningUdemy.csprojAssemblyReference.cache
 C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\obj\Debug\netcoreapp3.1\LearningUdemy.csproj.CoreCompileInputs.cache
 C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\obj\Debug\netcoreapp3.1\LearningUdemy.AssemblyInfoInputs.cache
 C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\obj\Debug\netcoreapp3.1\LearningUdemy.AssemblyInfo.cs
