@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shugupta3\\source\\repos\\LearningUdemy\\LearningUdemy\\LearningUdemy.csproj",
-      "projectName": "LearningUdemy",
-      "projectPath": "C:\\Users\\shugupta3\\source\\repos\\LearningUdemy\\LearningUdemy\\LearningUdemy.csproj",
+      "projectUniqueName": "C:\\Users\\shugupta3\\source\\repos\\LearningUdemy\\LearningUdemy\\LearningUdemyCSharp.csproj",
+      "projectName": "LearningUdemyCSharp",
+      "projectPath": "C:\\Users\\shugupta3\\source\\repos\\LearningUdemy\\LearningUdemy\\LearningUdemyCSharp.csproj",
       "packagesPath": "C:\\Users\\shugupta3\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\shugupta3\\source\\repos\\LearningUdemy\\LearningUdemy\\obj\\",
       "projectStyle": "PackageReference",
