@@ -1,0 +1,13 @@
+C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\obj\Debug\netcoreapp3.1\LearningUdemyCSharp.csproj.CoreCompileInputs.cache
+C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\obj\Debug\netcoreapp3.1\LearningUdemyCSharp.AssemblyInfoInputs.cache
+C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\obj\Debug\netcoreapp3.1\LearningUdemyCSharp.AssemblyInfo.cs
+C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\bin\Debug\netcoreapp3.1\LearningUdemyCSharp.exe
+C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\bin\Debug\netcoreapp3.1\LearningUdemyCSharp.deps.json
+C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\bin\Debug\netcoreapp3.1\LearningUdemyCSharp.runtimeconfig.json
+C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\bin\Debug\netcoreapp3.1\LearningUdemyCSharp.runtimeconfig.dev.json
+C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\bin\Debug\netcoreapp3.1\LearningUdemyCSharp.dll
+C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\bin\Debug\netcoreapp3.1\LearningUdemyCSharp.pdb
+C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\obj\Debug\netcoreapp3.1\LearningUdemyCSharp.dll
+C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\obj\Debug\netcoreapp3.1\LearningUdemyCSharp.pdb
+C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\obj\Debug\netcoreapp3.1\LearningUdemyCSharp.genruntimeconfig.cache
+C:\Users\shugupta3\source\repos\LearningUdemy\LearningUdemy\obj\Debug\netcoreapp3.1\LearningUdemyCSharp.csprojAssemblyReference.cache

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningUdemy", "LearningUdemy\LearningUdemy.csproj", "{600F8A24-218A-4BED-8679-7C83E8F969B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningUdemyCSharp", "LearningUdemy\LearningUdemyCSharp.csproj", "{600F8A24-218A-4BED-8679-7C83E8F969B6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{94EAE7A1-93FC-4E47-A332-5865352EC003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{AD9AA6CA-20B3-4ADB-A30A-183374A05884}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,10 @@ Global
 		{600F8A24-218A-4BED-8679-7C83E8F969B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{600F8A24-218A-4BED-8679-7C83E8F969B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{600F8A24-218A-4BED-8679-7C83E8F969B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD9AA6CA-20B3-4ADB-A30A-183374A05884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9AA6CA-20B3-4ADB-A30A-183374A05884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9AA6CA-20B3-4ADB-A30A-183374A05884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9AA6CA-20B3-4ADB-A30A-183374A05884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
