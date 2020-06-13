@@ -1,0 +1,4 @@
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\obj\Debug\netcoreapp3.1\Regexc.csprojAssemblyReference.cache
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\obj\Debug\netcoreapp3.1\Regexc.csproj.CoreCompileInputs.cache
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\obj\Debug\netcoreapp3.1\Regexc.AssemblyInfoInputs.cache
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\obj\Debug\netcoreapp3.1\Regexc.AssemblyInfo.cs

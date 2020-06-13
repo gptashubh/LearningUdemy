@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{AD9AA6CA-20B3-4ADB-A30A-183374A05884}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regexc", "Regex\Regexc.csproj", "{DC752943-CA8A-4DE4-A690-8CC20B67A821}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{AD9AA6CA-20B3-4ADB-A30A-183374A05884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD9AA6CA-20B3-4ADB-A30A-183374A05884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD9AA6CA-20B3-4ADB-A30A-183374A05884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC752943-CA8A-4DE4-A690-8CC20B67A821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC752943-CA8A-4DE4-A690-8CC20B67A821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC752943-CA8A-4DE4-A690-8CC20B67A821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC752943-CA8A-4DE4-A690-8CC20B67A821}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -19,7 +19,7 @@ namespace Inheritance
         {
             Console.WriteLine("I'm learning for {0} ", this.SchoolHour);
         }
-        public new void work()
+         public new void work()
         {
             Console.WriteLine("I'm working for {0} ", this.WorkingHour);
         }

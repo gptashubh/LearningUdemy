@@ -1,0 +1,13 @@
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\bin\Debug\netcoreapp3.1\Regex.exe
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\bin\Debug\netcoreapp3.1\Regex.deps.json
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\bin\Debug\netcoreapp3.1\Regex.runtimeconfig.json
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\bin\Debug\netcoreapp3.1\Regex.runtimeconfig.dev.json
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\bin\Debug\netcoreapp3.1\Regex.dll
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\bin\Debug\netcoreapp3.1\Regex.pdb
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\obj\Debug\netcoreapp3.1\Regex.csprojAssemblyReference.cache
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\obj\Debug\netcoreapp3.1\Regex.csproj.CoreCompileInputs.cache
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfoInputs.cache
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfo.cs
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\obj\Debug\netcoreapp3.1\Regex.dll
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\obj\Debug\netcoreapp3.1\Regex.pdb
+C:\Users\shugupta3\source\repos\LearningUdemy\Regex\obj\Debug\netcoreapp3.1\Regex.genruntimeconfig.cache
